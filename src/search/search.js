@@ -7,7 +7,6 @@ export function Search() {
     const pathname = window.location.pathname.split('/')[2];
     return (
         <div>
-            <h2>Search</h2>
             {
                 pathname === 'year' ?
                     <Year/> : pathname === 'place' ?

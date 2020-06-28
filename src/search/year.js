@@ -1,9 +1,8 @@
 import React from "react";
+import {Table, Button, FormControl, Form} from 'react-bootstrap';
 
 export function Year() {
     return (
-        <div>
-            <h2>Year</h2>
-        </div>
+        <h1>YEAR</h1>
     );
 }

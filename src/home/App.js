@@ -6,8 +6,10 @@ import headLogo from '../common/fond-entete.jpg';
 
 function App() {
   return (
-    <div className="App">
-        <img src={headLogo} alt="blanche-net" />
+    <div>
+        <div className="header-image">
+            <img src={headLogo} alt="blanche-net" />
+        </div>
         <Navigation />
         <header className="App-body">
 
