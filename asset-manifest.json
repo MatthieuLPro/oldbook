@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/oldbook/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/oldbook/static/js/main.a26503d6.chunk.js",
-    "main.js.map": "/oldbook/static/js/main.a26503d6.chunk.js.map",
-    "runtime-main.js": "/oldbook/static/js/runtime-main.16d6f24e.js",
-    "runtime-main.js.map": "/oldbook/static/js/runtime-main.16d6f24e.js.map",
-    "static/css/2.cbdddf7c.chunk.css": "/oldbook/static/css/2.cbdddf7c.chunk.css",
-    "static/js/2.aa042ea9.chunk.js": "/oldbook/static/js/2.aa042ea9.chunk.js",
-    "static/js/2.aa042ea9.chunk.js.map": "/oldbook/static/js/2.aa042ea9.chunk.js.map",
-    "index.html": "/oldbook/index.html",
-    "precache-manifest.07a220f2586a51ced9664930338eb3cc.js": "/oldbook/precache-manifest.07a220f2586a51ced9664930338eb3cc.js",
-    "service-worker.js": "/oldbook/service-worker.js",
-    "static/css/2.cbdddf7c.chunk.css.map": "/oldbook/static/css/2.cbdddf7c.chunk.css.map",
-    "static/css/main.5ecd60fb.chunk.css.map": "/oldbook/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.aa042ea9.chunk.js.LICENSE.txt": "/oldbook/static/js/2.aa042ea9.chunk.js.LICENSE.txt",
-    "static/media/fond-entete.jpg": "/oldbook/static/media/fond-entete.0c679227.jpg"
+    "main.css": "/oldbook/home/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/oldbook/home/static/js/main.7e7987b1.chunk.js",
+    "main.js.map": "/oldbook/home/static/js/main.7e7987b1.chunk.js.map",
+    "runtime-main.js": "/oldbook/home/static/js/runtime-main.935e58e3.js",
+    "runtime-main.js.map": "/oldbook/home/static/js/runtime-main.935e58e3.js.map",
+    "static/css/2.cbdddf7c.chunk.css": "/oldbook/home/static/css/2.cbdddf7c.chunk.css",
+    "static/js/2.aa042ea9.chunk.js": "/oldbook/home/static/js/2.aa042ea9.chunk.js",
+    "static/js/2.aa042ea9.chunk.js.map": "/oldbook/home/static/js/2.aa042ea9.chunk.js.map",
+    "index.html": "/oldbook/home/index.html",
+    "precache-manifest.732d8ee7f1cf509ab36c9dc2f28f3a67.js": "/oldbook/home/precache-manifest.732d8ee7f1cf509ab36c9dc2f28f3a67.js",
+    "service-worker.js": "/oldbook/home/service-worker.js",
+    "static/css/2.cbdddf7c.chunk.css.map": "/oldbook/home/static/css/2.cbdddf7c.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/oldbook/home/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.aa042ea9.chunk.js.LICENSE.txt": "/oldbook/home/static/js/2.aa042ea9.chunk.js.LICENSE.txt",
+    "static/media/fond-entete.jpg": "/oldbook/home/static/media/fond-entete.0c679227.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.16d6f24e.js",
+    "static/js/runtime-main.935e58e3.js",
     "static/css/2.cbdddf7c.chunk.css",
     "static/js/2.aa042ea9.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.a26503d6.chunk.js"
+    "static/js/main.7e7987b1.chunk.js"
   ]
 }
