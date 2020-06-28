@@ -10,19 +10,19 @@ export default function RouterOrganization() {
     return (
         <Router>
             <Switch>
-                <Route path="/home">
+                <Route path={process.env.PUBLIC_URL + "/home"}>
                     <Home />
                 </Route>
-                <Route path="/upload">
+                <Route path={process.env.PUBLIC_URL + "/upload"}>
                     <Upload />
                 </Route>
-                <Route path="/search">
+                <Route path={process.env.PUBLIC_URL + "/search"}>
                     <Search />
                 </Route>
-                <Route path="/document">
+                <Route path={process.env.PUBLIC_URL + "/document"}>
                     <Document />
                 </Route>
-                <Route path="/event">
+                <Route path={process.env.PUBLIC_URL + "/event"}>
                     <Event />
                 </Route>
             </Switch>

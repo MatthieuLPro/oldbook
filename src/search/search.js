@@ -4,7 +4,7 @@ import { Place } from './place';
 import { Person } from './person';
 
 export function Search() {
-    const pathname = window.location.pathname.split('/')[2];
+    const pathname = window.location.pathname.split('/')[3];
     return (
         <div>
             {

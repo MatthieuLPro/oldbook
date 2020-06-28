@@ -3,7 +3,7 @@ import {Index} from "./index";
 import {CreateForm} from "./create";
 
 export function Event() {
-    const pathname = window.location.pathname.split('/')[2];
+    const pathname = window.location.pathname.split('/')[3];
     return (
         <div>
             {
