@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/MatthieuLPro/oldbook/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/MatthieuLPro/oldbook/static/js/main.46a56451.chunk.js",
+    "main.js.map": "/MatthieuLPro/oldbook/static/js/main.46a56451.chunk.js.map",
+    "runtime-main.js": "/MatthieuLPro/oldbook/static/js/runtime-main.905a15fc.js",
+    "runtime-main.js.map": "/MatthieuLPro/oldbook/static/js/runtime-main.905a15fc.js.map",
+    "static/css/2.cbdddf7c.chunk.css": "/MatthieuLPro/oldbook/static/css/2.cbdddf7c.chunk.css",
+    "static/js/2.aa042ea9.chunk.js": "/MatthieuLPro/oldbook/static/js/2.aa042ea9.chunk.js",
+    "static/js/2.aa042ea9.chunk.js.map": "/MatthieuLPro/oldbook/static/js/2.aa042ea9.chunk.js.map",
+    "index.html": "/MatthieuLPro/oldbook/index.html",
+    "precache-manifest.99d10d23fca3c5638880b66a3bb04c94.js": "/MatthieuLPro/oldbook/precache-manifest.99d10d23fca3c5638880b66a3bb04c94.js",
+    "service-worker.js": "/MatthieuLPro/oldbook/service-worker.js",
+    "static/css/2.cbdddf7c.chunk.css.map": "/MatthieuLPro/oldbook/static/css/2.cbdddf7c.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/MatthieuLPro/oldbook/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.aa042ea9.chunk.js.LICENSE.txt": "/MatthieuLPro/oldbook/static/js/2.aa042ea9.chunk.js.LICENSE.txt",
+    "static/media/fond-entete.jpg": "/MatthieuLPro/oldbook/static/media/fond-entete.0c679227.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.905a15fc.js",
+    "static/css/2.cbdddf7c.chunk.css",
+    "static/js/2.aa042ea9.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.46a56451.chunk.js"
+  ]
+}
